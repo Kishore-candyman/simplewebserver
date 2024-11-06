@@ -81,7 +81,8 @@ httpd.serve_forever()
 """
 
 ## OUTPUT:
-![alt text](<Screenshot (4)-1.png>)
+
+![Screenshot (4)](https://github.com/user-attachments/assets/688c6587-959c-40a0-a115-e4d573f4a6a9)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
